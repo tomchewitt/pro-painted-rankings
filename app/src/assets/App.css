@@ -1,0 +1,294 @@
+html, body {
+    min-height: 100%;
+}
+
+body {
+    background: #000;
+    color: white;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.Header {
+    background: url('images/bg.jpg') no-repeat center top;
+    background-color: #2c042d;
+    background-size: cover;
+}
+
+.Header__inner {
+    padding: 1em;
+}
+
+.Header__logo {
+    margin: 0;
+    padding: 0.1em 0;
+
+    background: url('images/logo.svg') no-repeat center top;
+    background-size: contain;
+
+    text-indent: -9999px;
+}
+
+.Footer {
+    padding: 1em;
+    text-align: center;
+    font-family: 'Open Sans';
+}
+
+.Footer a {
+    color: white;
+}
+
+.Tabs {
+    padding-top: 1.5em;
+
+    margin: 0 auto;
+    max-width: 40em;
+}
+
+.Tabs__tab {
+    padding: 0.9em 0;
+    width: 48%;
+    display: inline-block;
+
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 0.9em;
+    text-align: center;
+
+    background: rgba(0, 0, 0, 0.7);
+    border: solid 1px #b40091;
+    box-shadow: 0 0 3px 1px #b40091;
+
+    transition: all 0.2s ease;
+}
+
+.Tabs__tab:last-child {
+    float: right;
+}
+
+.Tabs--painters .Tabs__tab:first-child {
+    background: rgba(92, 9, 72, 0.7);
+}
+
+.Tabs--tournaments .Tabs__tab:last-child {
+    background: rgba(136, 13, 107, 0.5);
+}
+
+
+/*COLUMNS*/
+.column {
+    padding: 0.7em;
+    display: inline-block;
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+.column--position {
+    width: 22%;
+    text-align: center;
+}
+
+.column--name {
+    flex: 10;
+}
+
+.column--score {
+    width: 18%;
+    text-align: center;
+}
+
+/**/
+.Painters__headers {
+    background: black;
+
+    font-size: 0.8em;
+}
+
+.Painters__headers .column {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.Painters__headers .column--name {
+    border-left: solid 1px white;
+    border-right: solid 1px white;
+}
+
+.Painters__headers-inner {
+    display: flex;
+
+    padding: 0;
+}
+
+/*LIST*/
+
+.PainterListItem {
+    font-size: 0.8em;
+    padding: 0;
+
+    color: black;
+
+    background: #C1EBFF;
+}
+
+.PainterListItem:nth-child(odd) {
+    background: #81C8EA;
+}
+
+.PainterListItem__inner {
+    display: flex;
+}
+
+.PainterListItem__name {
+    padding: 0.4em 1em;
+}
+
+.PainterListItem .column--name {
+    border-left: solid 1px white;
+    border-right: solid 1px white;
+}
+
+/*PAINTER*/
+
+.Painter__header,
+.Tournament__header {
+    background: black;
+    padding: 1.3em;
+
+    text-align: center;
+}
+
+.Painter__header-name,
+.Tournament__header-name {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+
+    margin: 0;
+}
+
+.Painter__header-title,
+.Tournament__header-title {
+    display: block;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 0.7em;
+    letter-spacing: 0.4em;
+    padding-bottom: 0.2em;
+}
+
+.Painter__score,
+.Tournament__info {
+    padding: 1em;
+    text-align: center;
+    background: #1c0321;
+    background: linear-gradient(-135deg, #1c0321 0%,#950e77 100%);
+}
+
+.Painter__score-title,
+.Tournament__info-title {
+    font-family: 'Ubuntu', sans-serif;
+    display: block;
+    font-size: 0.7em;
+    letter-spacing: 0.4em;
+    padding-bottom: 0.2em;
+}
+
+.Painter__score-number,
+.Tournament__info-detail {
+    display: block;
+    font-size: 2em;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+}
+
+.Painter__tournaments-header,
+.Tournament__tournaments-header {
+    display: flex;
+    background: black;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.Painter__tournaments-header .column:first-child,
+.Tournament__tournaments-header .column:first-child {
+    border-right: solid 1px white;
+    flex-grow: 10;
+}
+
+.Painter__tournaments-header .column:last-child,
+.Tournament__tournaments-header .column:last-child {
+    width: 40%;
+    text-align: right;
+}
+
+
+/**/
+.TournamentPainterListItem,
+.PainterTournamentListItem,
+.TournamentListItem {
+    display: flex;
+    padding: 0;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8em;
+    background: #C1EBFF;
+}
+
+.TournamentPainterListItem:nth-child(odd),
+.PainterTournamentListItem:nth-child(odd),
+.TournamentListItem:nth-child(odd) {
+    background: #81C8EA;
+}
+
+.TournamentPainterListItem__name,
+.PainterTournamentListItem__name,
+.TournamentListItem__name {
+    padding: 0.4em 1em;
+    border-right: solid 1px white;
+    flex-grow: 10;
+}
+
+.TournamentPainterListItem__position,
+.PainterTournamentListItem__position,
+.TournamentListItem__painters {
+    padding: 0.4em 1em;
+    width: 40%;
+    text-align: right;
+}
+
+.TournamentListItem__painters {
+    width: 30%;
+    text-align: center;
+}
+
+.Tournaments__headers {
+    display: flex;
+    background: black;
+}
+
+.Tournaments__headers .column:first-child {
+    border-right: solid 1px white;
+    flex-grow: 10;
+}
+
+.Tournaments__headers .column:last-child {
+    width: 30%;
+    text-align: center;
+}
+
+.Tournament__info-item:last-child {
+    padding-top: 1.2em;
+}
+
+@media screen and (min-width: 40em) {
+    body {
+        background: #1c0321;
+    }
+
+    .Painters {
+        margin: 0 auto;
+        max-width: 40em;
+        box-shadow: 0 0.5em 3em 0 #000;
+    }
+}
