@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Header from './Header';
+import Footer from './Footer';
 import TournamentPainterListItem from './TournamentPainterListItem';
 import { withRouter } from 'react-router-dom';
 import { humanReadableName } from './Utils';
@@ -39,6 +40,7 @@ class Painter extends Component {
                         }) }
                     </div>
                 </div>
+                <Footer />
             </div>
         );
     }

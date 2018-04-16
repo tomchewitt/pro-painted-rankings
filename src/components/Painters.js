@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Header from './Header';
+import Footer from './Footer';
 import PainterListItem from './PainterListItem';
 
 class Painters extends Component {
@@ -20,6 +21,7 @@ class Painters extends Component {
                         <PainterListItem key={painterArr['name']} painterName={painterArr['name']} details={painterArr} />
                     )}
                 </div>
+                <Footer />
             </div>
         );
     }

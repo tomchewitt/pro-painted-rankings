@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Header from './Header';
+import Footer from './Footer';
 import TournamentListItem from './TournamentListItem';
 
 class Tournaments extends Component {
@@ -17,6 +18,7 @@ class Tournaments extends Component {
                         <TournamentListItem key={tornamentArr['name']} details={tornamentArr} />
                     )}
                 </div>
+                <Footer />
             </div>
         );
     }

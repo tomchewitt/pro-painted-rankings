@@ -41,6 +41,20 @@ body {
     color: white;
 }
 
+.Footer button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1em;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.Footer a:hover,
+.Footer button:hover {
+    color: #950e77;
+}
+
 .Tabs {
     padding-top: 1.5em;
 
@@ -61,8 +75,13 @@ body {
     background: rgba(0, 0, 0, 0.7);
     border: solid 1px #b40091;
     box-shadow: 0 0 3px 1px #b40091;
+    cursor: pointer;
 
     transition: all 0.2s ease;
+}
+
+.Tabs__tab:hover {
+    background: rgba(180, 0, 145, 0.6);
 }
 
 .Tabs__tab:last-child {
@@ -281,12 +300,52 @@ body {
     padding-top: 1.2em;
 }
 
+.PainterListItem,
+.TournamentPainterListItem,
+.PainterTournamentListItem,
+.TournamentListItem {
+    cursor: pointer;
+}
+
+.PainterListItem:hover,
+.TournamentPainterListItem:hover,
+.PainterTournamentListItem:hover,
+.TournamentListItem:hover {
+    color: white;
+    /*background: linear-gradient(-135deg, #1c0321 0%,#950e77 100%);*/
+    background: #950e77;
+}
+
+/* ABOUT */
+.About {
+    margin: 0 auto;
+    padding: 2em 1em;
+    max-width: 40em;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.About h1, .About h2 {
+    text-transform: uppercase;
+}
+
+.About p {
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+.About a {
+    color: white;
+}
+
 @media screen and (min-width: 40em) {
     body {
         background: #1c0321;
     }
 
-    .Painters {
+    .Painters,
+    .Painter,
+    .Tournaments,
+    .Tournament {
         margin: 0 auto;
         max-width: 40em;
         box-shadow: 0 0.5em 3em 0 #000;

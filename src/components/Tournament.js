@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Header from './Header';
+import Footer from './Footer';
 import PainterTournamentListItem from './PainterTournamentListItem';
 import { humanReadableName } from './Utils';
 import Moment from 'react-moment';
@@ -58,6 +59,7 @@ class Tournament extends Component {
                         )}
                     </div>
                 </div>
+                <Footer />
             </div>
         );
     }
