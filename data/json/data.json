@@ -13,10 +13,10 @@
                 }
             ],
             "score": "40",
-            "position": "16"
+            "position": "18"
         },
         {
-            "name": "adam-aelford",
+            "name": "adam-alford",
             "tournaments": [
                 {
                     "name": "age-of-santa",
@@ -25,10 +25,14 @@
                 {
                     "name": "rise-of-empire",
                     "position": "1st Place"
+                },
+                {
+                    "name": "heat-2",
+                    "position": "Nomination"
                 }
             ],
-            "score": "63.33",
-            "position": "12"
+            "score": "103.33",
+            "position": "4"
         },
         {
             "name": "adam-cooper",
@@ -39,7 +43,7 @@
                 }
             ],
             "score": "40",
-            "position": "17"
+            "position": "19"
         },
         {
             "name": "adam-hall",
@@ -50,7 +54,7 @@
                 }
             ],
             "score": "40",
-            "position": "18"
+            "position": "20"
         },
         {
             "name": "alexis-deville",
@@ -61,7 +65,7 @@
                 }
             ],
             "score": "100",
-            "position": "3"
+            "position": "5"
         },
         {
             "name": "andrea-anselmi",
@@ -76,7 +80,18 @@
                 }
             ],
             "score": "80",
-            "position": "8"
+            "position": "9"
+        },
+        {
+            "name": "anthony-lewis",
+            "tournaments": [
+                {
+                    "name": "heat-2",
+                    "position": "Nomination"
+                }
+            ],
+            "score": "40",
+            "position": "21"
         },
         {
             "name": "ash-robinson",
@@ -87,7 +102,7 @@
                 }
             ],
             "score": "40",
-            "position": "19"
+            "position": "22"
         },
         {
             "name": "ben-chalk",
@@ -98,7 +113,7 @@
                 }
             ],
             "score": "43.33",
-            "position": "15"
+            "position": "17"
         },
         {
             "name": "ben-johnson",
@@ -113,7 +128,7 @@
                 }
             ],
             "score": "76",
-            "position": "9"
+            "position": "11"
         },
         {
             "name": "benjamin-savva",
@@ -124,7 +139,7 @@
                 }
             ],
             "score": "40",
-            "position": "20"
+            "position": "23"
         },
         {
             "name": "bishmiester",
@@ -135,7 +150,7 @@
                 }
             ],
             "score": "24",
-            "position": "51"
+            "position": "59"
         },
         {
             "name": "bryan-carmichael",
@@ -146,7 +161,7 @@
                 }
             ],
             "score": "40",
-            "position": "21"
+            "position": "24"
         },
         {
             "name": "byron-orde",
@@ -157,7 +172,7 @@
                 }
             ],
             "score": "40",
-            "position": "22"
+            "position": "25"
         },
         {
             "name": "carl-smith",
@@ -168,7 +183,7 @@
                 }
             ],
             "score": "24",
-            "position": "52"
+            "position": "60"
         },
         {
             "name": "chris-clarke",
@@ -179,7 +194,18 @@
                 }
             ],
             "score": "40",
-            "position": "23"
+            "position": "26"
+        },
+        {
+            "name": "chris-mills",
+            "tournaments": [
+                {
+                    "name": "heat-2",
+                    "position": "Nomination"
+                }
+            ],
+            "score": "40",
+            "position": "27"
         },
         {
             "name": "chris-tomlin",
@@ -194,7 +220,7 @@
                 }
             ],
             "score": "36",
-            "position": "50"
+            "position": "58"
         },
         {
             "name": "danny-cashman",
@@ -212,6 +238,17 @@
             "position": "1"
         },
         {
+            "name": "dave-fraser",
+            "tournaments": [
+                {
+                    "name": "heat-2",
+                    "position": "Nomination"
+                }
+            ],
+            "score": "40",
+            "position": "28"
+        },
+        {
             "name": "david-gresizks",
             "tournaments": [
                 {
@@ -220,7 +257,18 @@
                 }
             ],
             "score": "40",
-            "position": "24"
+            "position": "29"
+        },
+        {
+            "name": "elliot-o'neil",
+            "tournaments": [
+                {
+                    "name": "heat-2",
+                    "position": "Nomination"
+                }
+            ],
+            "score": "40",
+            "position": "30"
         },
         {
             "name": "gary-hennessey",
@@ -231,7 +279,7 @@
                 }
             ],
             "score": "48",
-            "position": "14"
+            "position": "16"
         },
         {
             "name": "gaz-evans",
@@ -242,7 +290,7 @@
                 }
             ],
             "score": "40",
-            "position": "25"
+            "position": "31"
         },
         {
             "name": "ian-huxley",
@@ -253,7 +301,7 @@
                 }
             ],
             "score": "40",
-            "position": "26"
+            "position": "32"
         },
         {
             "name": "ian-spink",
@@ -264,7 +312,7 @@
                 }
             ],
             "score": "24",
-            "position": "53"
+            "position": "61"
         },
         {
             "name": "j.b-legous",
@@ -275,7 +323,7 @@
                 }
             ],
             "score": "100",
-            "position": "4"
+            "position": "6"
         },
         {
             "name": "james-warth",
@@ -290,7 +338,7 @@
                 }
             ],
             "score": "68.67",
-            "position": "10"
+            "position": "12"
         },
         {
             "name": "james-williams",
@@ -301,7 +349,7 @@
                 }
             ],
             "score": "40",
-            "position": "27"
+            "position": "33"
         },
         {
             "name": "jerry-marshall",
@@ -312,7 +360,7 @@
                 }
             ],
             "score": "24",
-            "position": "54"
+            "position": "62"
         },
         {
             "name": "jim-perrin",
@@ -323,7 +371,7 @@
                 }
             ],
             "score": "24",
-            "position": "55"
+            "position": "63"
         },
         {
             "name": "joe-logan",
@@ -334,7 +382,18 @@
                 }
             ],
             "score": "100",
-            "position": "5"
+            "position": "7"
+        },
+        {
+            "name": "joel-smith",
+            "tournaments": [
+                {
+                    "name": "heat-2",
+                    "position": "Nomination"
+                }
+            ],
+            "score": "40",
+            "position": "34"
         },
         {
             "name": "karl-breakspear",
@@ -345,7 +404,7 @@
                 }
             ],
             "score": "24",
-            "position": "56"
+            "position": "64"
         },
         {
             "name": "kevin-pedrick",
@@ -356,7 +415,7 @@
                 }
             ],
             "score": "40",
-            "position": "28"
+            "position": "35"
         },
         {
             "name": "lee-bromley",
@@ -367,7 +426,7 @@
                 }
             ],
             "score": "40",
-            "position": "29"
+            "position": "36"
         },
         {
             "name": "les-martin",
@@ -382,7 +441,7 @@
                 }
             ],
             "score": "64",
-            "position": "11"
+            "position": "13"
         },
         {
             "name": "martin-morrin",
@@ -390,10 +449,14 @@
                 {
                     "name": "chump-invitational",
                     "position": "Nomination"
+                },
+                {
+                    "name": "heat-2",
+                    "position": "Nomination"
                 }
             ],
-            "score": "24",
-            "position": "57"
+            "score": "64",
+            "position": "14"
         },
         {
             "name": "martin-orlando",
@@ -404,7 +467,7 @@
                 }
             ],
             "score": "40",
-            "position": "30"
+            "position": "37"
         },
         {
             "name": "matt-arnold",
@@ -415,7 +478,7 @@
                 }
             ],
             "score": "40",
-            "position": "31"
+            "position": "38"
         },
         {
             "name": "matt-robinson",
@@ -426,7 +489,7 @@
                 }
             ],
             "score": "40",
-            "position": "32"
+            "position": "39"
         },
         {
             "name": "matthew-lyons",
@@ -449,7 +512,7 @@
                 }
             ],
             "score": "115.33",
-            "position": "2"
+            "position": "3"
         },
         {
             "name": "max-gregor",
@@ -460,7 +523,18 @@
                 }
             ],
             "score": "40",
-            "position": "33"
+            "position": "40"
+        },
+        {
+            "name": "neil-peckett",
+            "tournaments": [
+                {
+                    "name": "heat-2",
+                    "position": "Nomination"
+                }
+            ],
+            "score": "40",
+            "position": "41"
         },
         {
             "name": "ollie-grimwood",
@@ -471,7 +545,7 @@
                 }
             ],
             "score": "40",
-            "position": "34"
+            "position": "42"
         },
         {
             "name": "oscar-knutsson",
@@ -482,7 +556,7 @@
                 }
             ],
             "score": "40",
-            "position": "35"
+            "position": "43"
         },
         {
             "name": "paul-buckler",
@@ -497,7 +571,7 @@
                 }
             ],
             "score": "50",
-            "position": "13"
+            "position": "15"
         },
         {
             "name": "phil-morton",
@@ -508,7 +582,7 @@
                 }
             ],
             "score": "40",
-            "position": "36"
+            "position": "44"
         },
         {
             "name": "pitor-jermolowisc",
@@ -519,7 +593,7 @@
                 }
             ],
             "score": "40",
-            "position": "37"
+            "position": "45"
         },
         {
             "name": "rachel-woodbridge",
@@ -530,7 +604,7 @@
                 }
             ],
             "score": "40",
-            "position": "38"
+            "position": "46"
         },
         {
             "name": "rob-crouchley",
@@ -541,7 +615,7 @@
                 }
             ],
             "score": "40",
-            "position": "39"
+            "position": "47"
         },
         {
             "name": "rob-ellis",
@@ -552,7 +626,7 @@
                 }
             ],
             "score": "20",
-            "position": "59"
+            "position": "66"
         },
         {
             "name": "russ-veal",
@@ -564,10 +638,14 @@
                 {
                     "name": "chump-invitational",
                     "position": "1st Place"
+                },
+                {
+                    "name": "heat-2",
+                    "position": "Nomination"
                 }
             ],
-            "score": "100",
-            "position": "6"
+            "score": "140",
+            "position": "2"
         },
         {
             "name": "sam-saunders",
@@ -578,7 +656,7 @@
                 }
             ],
             "score": "40",
-            "position": "40"
+            "position": "48"
         },
         {
             "name": "sam-stocks",
@@ -589,7 +667,7 @@
                 }
             ],
             "score": "40",
-            "position": "41"
+            "position": "49"
         },
         {
             "name": "sam-wilson",
@@ -600,7 +678,7 @@
                 }
             ],
             "score": "40",
-            "position": "42"
+            "position": "50"
         },
         {
             "name": "simon-eccles",
@@ -611,7 +689,7 @@
                 }
             ],
             "score": "40",
-            "position": "43"
+            "position": "51"
         },
         {
             "name": "steve-foote",
@@ -622,7 +700,7 @@
                 }
             ],
             "score": "16",
-            "position": "60"
+            "position": "67"
         },
         {
             "name": "steve-smith",
@@ -630,10 +708,14 @@
                 {
                     "name": "whw-doubles",
                     "position": "Nomination"
+                },
+                {
+                    "name": "heat-2",
+                    "position": "Nomination"
                 }
             ],
-            "score": "40",
-            "position": "44"
+            "score": "80",
+            "position": "10"
         },
         {
             "name": "steve-wren",
@@ -644,7 +726,7 @@
                 }
             ],
             "score": "100",
-            "position": "7"
+            "position": "8"
         },
         {
             "name": "terry-pike",
@@ -655,7 +737,7 @@
                 }
             ],
             "score": "40",
-            "position": "45"
+            "position": "52"
         },
         {
             "name": "tim-fisher",
@@ -666,7 +748,18 @@
                 }
             ],
             "score": "40",
-            "position": "46"
+            "position": "53"
+        },
+        {
+            "name": "tom-bridges",
+            "tournaments": [
+                {
+                    "name": "heat-2",
+                    "position": "Nomination"
+                }
+            ],
+            "score": "40",
+            "position": "54"
         },
         {
             "name": "tom-hewitt",
@@ -677,7 +770,7 @@
                 }
             ],
             "score": "24",
-            "position": "58"
+            "position": "65"
         },
         {
             "name": "tom-mobbs",
@@ -688,7 +781,7 @@
                 }
             ],
             "score": "40",
-            "position": "47"
+            "position": "55"
         },
         {
             "name": "wayne-kemp",
@@ -699,7 +792,7 @@
                 }
             ],
             "score": "40",
-            "position": "48"
+            "position": "56"
         },
         {
             "name": "zaki-katilia",
@@ -710,63 +803,63 @@
                 }
             ],
             "score": "40",
-            "position": "49"
+            "position": "57"
         }
     ],
     "tournaments": [
         {
             "name": "age-of-santa",
-            "date": 1512861789,
+            "date": 1512859807,
             "painters": "14"
         },
         {
             "name": "heat-1",
-            "date": 1515885789,
+            "date": 1515883807,
             "painters": "87"
         },
         {
             "name": "growing-shaddow",
-            "date": 1516922589,
+            "date": 1516920607,
             "painters": "10"
         },
         {
             "name": "sheffield-slaughter",
-            "date": 1517095389,
+            "date": 1517093407,
             "painters": "60"
         },
         {
             "name": "the-orthrus",
-            "date": 1517700189,
+            "date": 1517698207,
             "painters": "22"
         },
         {
             "name": "blood,-death-and-vengence-3",
-            "date": 1519514589,
+            "date": 1519512607,
             "painters": "26"
         },
         {
             "name": "rise-of-empire",
-            "date": 1518909789,
+            "date": 1518907807,
             "painters": "24"
         },
         {
             "name": "whw-doubles",
-            "date": 1521933789,
+            "date": 1521931807,
             "painters": "180"
         },
         {
             "name": "chump-invitational",
-            "date": 1521415389,
+            "date": 1521413407,
             "painters": "36"
         },
         {
             "name": "dogger-doubles",
-            "date": 1520810589,
+            "date": 1520808607,
             "painters": "12"
         },
         {
             "name": "heat-2",
-            "date": 1523748189,
+            "date": 1523746207,
             "painters": "91"
         }
     ]
