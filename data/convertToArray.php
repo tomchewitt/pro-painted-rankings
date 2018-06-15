@@ -1,4 +1,36 @@
 <?php
+function safe_json_encode($value, $options = 0, $depth = 512){
+    $encoded = json_encode($value, $options, $depth);
+    switch (json_last_error()) {
+        case JSON_ERROR_NONE:
+            return $encoded;
+        case JSON_ERROR_DEPTH:
+            return 'Maximum stack depth exceeded'; // or trigger_error() or throw new Exception()
+        case JSON_ERROR_STATE_MISMATCH:
+            return 'Underflow or the modes mismatch'; // or trigger_error() or throw new Exception()
+        case JSON_ERROR_CTRL_CHAR:
+            return 'Unexpected control character found';
+        case JSON_ERROR_SYNTAX:
+            return 'Syntax error, malformed JSON'; // or trigger_error() or throw new Exception()
+        case JSON_ERROR_UTF8:
+            $clean = utf8ize($value);
+            return safe_json_encode($clean, $options, $depth);
+        default:
+            return 'Unknown error'; // or trigger_error() or throw new Exception()
+
+    }
+}
+
+function utf8ize($mixed) {
+    if (is_array($mixed)) {
+        foreach ($mixed as $key => $value) {
+            $mixed[$key] = utf8ize($value);
+        }
+    } else if (is_string ($mixed)) {
+        return utf8_encode($mixed);
+    }
+    return $mixed;
+}
 
 /*
 [
@@ -102,6 +134,12 @@ foreach ($csv2 as $key => $value) {
 $masterJson = new stdClass();
 $masterJson->painters = $painters;
 $masterJson->tournaments = $tournaments;
+
+// $masterJson = mb_convert_encoding($masterJson, 'UTF-8', 'UTF-8');
+
+// var_dump(json_encode($masterJson, JSON_PRETTY_PRINT));
+// var_dump(json_last_error_msg());
+// die();
 
 file_put_contents('./json/data.json', json_encode($masterJson, JSON_PRETTY_PRINT));
 file_put_contents('./json/data.min.json', json_encode($masterJson));
