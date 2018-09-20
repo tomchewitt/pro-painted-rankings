@@ -32,7 +32,7 @@
                 }
             ],
             "score": "40",
-            "position": "45"
+            "position": "51"
         },
         {
             "name": "adam-cunis",
@@ -70,7 +70,7 @@
                 }
             ],
             "score": "103.33",
-            "position": "17"
+            "position": "19"
         },
         {
             "name": "adam-hall",
@@ -81,7 +81,7 @@
                 }
             ],
             "score": "40",
-            "position": "46"
+            "position": "52"
         },
         {
             "name": "adam-higginson",
@@ -92,7 +92,7 @@
                 }
             ],
             "score": "20",
-            "position": "103"
+            "position": "110"
         },
         {
             "name": "adi-mcwalter",
@@ -100,10 +100,14 @@
                 {
                     "name": "blackout-2018",
                     "position": "Nomination"
+                },
+                {
+                    "name": "eggs-18",
+                    "position": "Nomination"
                 }
             ],
-            "score": "40",
-            "position": "47"
+            "score": "74.67",
+            "position": "37"
         },
         {
             "name": "alexis-deville",
@@ -114,7 +118,7 @@
                 }
             ],
             "score": "100",
-            "position": "18"
+            "position": "20"
         },
         {
             "name": "andrea-anselmi",
@@ -129,7 +133,7 @@
                 }
             ],
             "score": "80",
-            "position": "24"
+            "position": "28"
         },
         {
             "name": "anthony-lewis",
@@ -144,7 +148,7 @@
                 }
             ],
             "score": "80",
-            "position": "25"
+            "position": "29"
         },
         {
             "name": "ash-robinson",
@@ -155,7 +159,7 @@
                 }
             ],
             "score": "40",
-            "position": "48"
+            "position": "53"
         },
         {
             "name": "ben-booker",
@@ -166,7 +170,7 @@
                 }
             ],
             "score": "100",
-            "position": "19"
+            "position": "21"
         },
         {
             "name": "ben-chalk",
@@ -177,7 +181,7 @@
                 }
             ],
             "score": "43.33",
-            "position": "44"
+            "position": "49"
         },
         {
             "name": "ben-johnson",
@@ -200,7 +204,7 @@
                 }
             ],
             "score": "156",
-            "position": "9"
+            "position": "11"
         },
         {
             "name": "ben-smith",
@@ -215,7 +219,7 @@
                 }
             ],
             "score": "66",
-            "position": "35"
+            "position": "39"
         },
         {
             "name": "ben-van-brull",
@@ -226,7 +230,7 @@
                 }
             ],
             "score": "40",
-            "position": "49"
+            "position": "54"
         },
         {
             "name": "benjamin-savva",
@@ -260,7 +264,7 @@
                 }
             ],
             "score": "24",
-            "position": "97"
+            "position": "103"
         },
         {
             "name": "brad-glover",
@@ -275,7 +279,7 @@
                 }
             ],
             "score": "132",
-            "position": "12"
+            "position": "14"
         },
         {
             "name": "bryan-carmichael",
@@ -286,7 +290,7 @@
                 }
             ],
             "score": "40",
-            "position": "50"
+            "position": "55"
         },
         {
             "name": "byron-orde",
@@ -297,7 +301,7 @@
                 }
             ],
             "score": "40",
-            "position": "51"
+            "position": "56"
         },
         {
             "name": "carl-smith",
@@ -308,7 +312,7 @@
                 }
             ],
             "score": "24",
-            "position": "98"
+            "position": "104"
         },
         {
             "name": "chris-clarke",
@@ -319,7 +323,7 @@
                 }
             ],
             "score": "40",
-            "position": "52"
+            "position": "57"
         },
         {
             "name": "chris-lewis",
@@ -330,7 +334,7 @@
                 }
             ],
             "score": "40",
-            "position": "53"
+            "position": "58"
         },
         {
             "name": "chris-mills",
@@ -349,7 +353,7 @@
                 }
             ],
             "score": "105",
-            "position": "15"
+            "position": "17"
         },
         {
             "name": "chris-thurston",
@@ -360,7 +364,7 @@
                 }
             ],
             "score": "40",
-            "position": "54"
+            "position": "59"
         },
         {
             "name": "chris-tomlin",
@@ -384,10 +388,18 @@
                 {
                     "name": "dorset-dogger-invitational-2018",
                     "position": "3rd Place"
+                },
+                {
+                    "name": "eggs-18",
+                    "position": "2nd Place"
+                },
+                {
+                    "name": "second-edition-slaughter",
+                    "position": "1st Place"
                 }
             ],
-            "score": "111.33",
-            "position": "14"
+            "score": "176.67",
+            "position": "9"
         },
         {
             "name": "danny-allen",
@@ -398,7 +410,7 @@
                 }
             ],
             "score": "26.67",
-            "position": "96"
+            "position": "102"
         },
         {
             "name": "danny-carroll",
@@ -409,7 +421,7 @@
                 }
             ],
             "score": "60",
-            "position": "38"
+            "position": "42"
         },
         {
             "name": "danny-cashman",
@@ -439,7 +451,7 @@
                 }
             ],
             "score": "40",
-            "position": "55"
+            "position": "60"
         },
         {
             "name": "david-busse",
@@ -450,7 +462,7 @@
                 }
             ],
             "score": "40",
-            "position": "56"
+            "position": "61"
         },
         {
             "name": "david-fullbrook",
@@ -461,7 +473,7 @@
                 }
             ],
             "score": "40",
-            "position": "57"
+            "position": "62"
         },
         {
             "name": "david-gresizks",
@@ -472,7 +484,7 @@
                 }
             ],
             "score": "40",
-            "position": "58"
+            "position": "63"
         },
         {
             "name": "douglas-fazzani",
@@ -483,7 +495,7 @@
                 }
             ],
             "score": "32",
-            "position": "93"
+            "position": "97"
         },
         {
             "name": "elliot-o'neil",
@@ -494,7 +506,7 @@
                 }
             ],
             "score": "40",
-            "position": "59"
+            "position": "64"
         },
         {
             "name": "francois-morin",
@@ -505,7 +517,7 @@
                 }
             ],
             "score": "80",
-            "position": "26"
+            "position": "30"
         },
         {
             "name": "gary-hennessey",
@@ -516,7 +528,7 @@
                 }
             ],
             "score": "48",
-            "position": "42"
+            "position": "47"
         },
         {
             "name": "gaz-evans",
@@ -527,7 +539,7 @@
                 }
             ],
             "score": "40",
-            "position": "60"
+            "position": "65"
         },
         {
             "name": "graham-shirley",
@@ -535,10 +547,14 @@
                 {
                     "name": "agomxxi",
                     "position": "1st Place"
+                },
+                {
+                    "name": "northern-invasion-18",
+                    "position": "1st Place"
                 }
             ],
-            "score": "50",
-            "position": "40"
+            "score": "120",
+            "position": "15"
         },
         {
             "name": "ian-hannam",
@@ -546,10 +562,14 @@
                 {
                     "name": "scgt-2018",
                     "position": "2nd Place"
+                },
+                {
+                    "name": "pompey-pillage-2018",
+                    "position": "1st Place"
                 }
             ],
-            "score": "80",
-            "position": "27"
+            "score": "110",
+            "position": "16"
         },
         {
             "name": "ian-huxley",
@@ -560,7 +580,7 @@
                 }
             ],
             "score": "40",
-            "position": "61"
+            "position": "66"
         },
         {
             "name": "ian-spink",
@@ -571,7 +591,7 @@
                 }
             ],
             "score": "24",
-            "position": "99"
+            "position": "105"
         },
         {
             "name": "j.b-legous",
@@ -582,7 +602,7 @@
                 }
             ],
             "score": "100",
-            "position": "20"
+            "position": "22"
         },
         {
             "name": "jack-spencer",
@@ -593,7 +613,7 @@
                 }
             ],
             "score": "40",
-            "position": "62"
+            "position": "67"
         },
         {
             "name": "james-warth",
@@ -631,7 +651,18 @@
                 }
             ],
             "score": "80",
-            "position": "28"
+            "position": "31"
+        },
+        {
+            "name": "jamie-ferguson",
+            "tournaments": [
+                {
+                    "name": "northern-invasion-18",
+                    "position": "3rd Place"
+                }
+            ],
+            "score": "42",
+            "position": "50"
         },
         {
             "name": "jani-szaniszlo",
@@ -642,7 +673,7 @@
                 }
             ],
             "score": "40",
-            "position": "63"
+            "position": "68"
         },
         {
             "name": "jerry-marshall",
@@ -653,7 +684,7 @@
                 }
             ],
             "score": "24",
-            "position": "100"
+            "position": "106"
         },
         {
             "name": "jim-perrin",
@@ -664,7 +695,7 @@
                 }
             ],
             "score": "24",
-            "position": "101"
+            "position": "107"
         },
         {
             "name": "joe-logan",
@@ -675,7 +706,7 @@
                 }
             ],
             "score": "100",
-            "position": "21"
+            "position": "23"
         },
         {
             "name": "joel-smith",
@@ -686,7 +717,7 @@
                 }
             ],
             "score": "40",
-            "position": "64"
+            "position": "69"
         },
         {
             "name": "john-greene",
@@ -701,7 +732,7 @@
                 }
             ],
             "score": "100",
-            "position": "22"
+            "position": "24"
         },
         {
             "name": "john-southgate",
@@ -712,7 +743,7 @@
                 }
             ],
             "score": "60",
-            "position": "39"
+            "position": "43"
         },
         {
             "name": "jon-williams",
@@ -723,7 +754,7 @@
                 }
             ],
             "score": "40",
-            "position": "65"
+            "position": "70"
         },
         {
             "name": "jorg-freyaldenhoven",
@@ -734,7 +765,7 @@
                 }
             ],
             "score": "40",
-            "position": "66"
+            "position": "71"
         },
         {
             "name": "karl-breakspear",
@@ -749,7 +780,7 @@
                 }
             ],
             "score": "64",
-            "position": "36"
+            "position": "40"
         },
         {
             "name": "kevin-pedrick",
@@ -760,7 +791,7 @@
                 }
             ],
             "score": "40",
-            "position": "67"
+            "position": "72"
         },
         {
             "name": "lee-bromley",
@@ -775,7 +806,7 @@
                 }
             ],
             "score": "80",
-            "position": "29"
+            "position": "32"
         },
         {
             "name": "les-martin",
@@ -794,7 +825,7 @@
                 }
             ],
             "score": "104",
-            "position": "16"
+            "position": "18"
         },
         {
             "name": "mark-wildman",
@@ -805,7 +836,7 @@
                 }
             ],
             "score": "40",
-            "position": "68"
+            "position": "73"
         },
         {
             "name": "martin-morrin",
@@ -820,7 +851,7 @@
                 }
             ],
             "score": "64",
-            "position": "37"
+            "position": "41"
         },
         {
             "name": "martin-orlando",
@@ -831,7 +862,7 @@
                 }
             ],
             "score": "40",
-            "position": "69"
+            "position": "74"
         },
         {
             "name": "matt-arnold",
@@ -842,7 +873,7 @@
                 }
             ],
             "score": "40",
-            "position": "70"
+            "position": "75"
         },
         {
             "name": "matt-garside",
@@ -853,7 +884,18 @@
                 }
             ],
             "score": "32",
-            "position": "94"
+            "position": "98"
+        },
+        {
+            "name": "matt-oswald-haggett",
+            "tournaments": [
+                {
+                    "name": "eggs-18",
+                    "position": "1st Place"
+                }
+            ],
+            "score": "86.67",
+            "position": "27"
         },
         {
             "name": "matt-robinson",
@@ -864,7 +906,7 @@
                 }
             ],
             "score": "40",
-            "position": "71"
+            "position": "76"
         },
         {
             "name": "matthew-lyons",
@@ -910,7 +952,7 @@
                 }
             ],
             "score": "40",
-            "position": "72"
+            "position": "77"
         },
         {
             "name": "maxime-julian",
@@ -921,7 +963,7 @@
                 }
             ],
             "score": "40",
-            "position": "73"
+            "position": "78"
         },
         {
             "name": "michael-slowey",
@@ -932,7 +974,7 @@
                 }
             ],
             "score": "50",
-            "position": "41"
+            "position": "46"
         },
         {
             "name": "mike-burges",
@@ -947,7 +989,18 @@
                 }
             ],
             "score": "140",
-            "position": "10"
+            "position": "12"
+        },
+        {
+            "name": "mike-callaghan",
+            "tournaments": [
+                {
+                    "name": "northern-invasion-18",
+                    "position": "Nomination"
+                }
+            ],
+            "score": "28",
+            "position": "101"
         },
         {
             "name": "mike-wilson",
@@ -955,10 +1008,14 @@
                 {
                     "name": "blackout-2018",
                     "position": "Nomination"
+                },
+                {
+                    "name": "eggs-18",
+                    "position": "Nomination"
                 }
             ],
-            "score": "40",
-            "position": "74"
+            "score": "74.67",
+            "position": "38"
         },
         {
             "name": "neil-peckett",
@@ -969,7 +1026,7 @@
                 }
             ],
             "score": "40",
-            "position": "75"
+            "position": "79"
         },
         {
             "name": "nick-peart",
@@ -980,7 +1037,7 @@
                 }
             ],
             "score": "80",
-            "position": "30"
+            "position": "33"
         },
         {
             "name": "nigel-bartlett",
@@ -991,7 +1048,7 @@
                 }
             ],
             "score": "40",
-            "position": "76"
+            "position": "80"
         },
         {
             "name": "ollie-grimwood",
@@ -1002,7 +1059,7 @@
                 }
             ],
             "score": "40",
-            "position": "77"
+            "position": "81"
         },
         {
             "name": "oscar-knutsson",
@@ -1013,7 +1070,7 @@
                 }
             ],
             "score": "40",
-            "position": "78"
+            "position": "82"
         },
         {
             "name": "paul-berridge",
@@ -1024,7 +1081,7 @@
                 }
             ],
             "score": "40",
-            "position": "79"
+            "position": "83"
         },
         {
             "name": "paul-buckler",
@@ -1040,10 +1097,18 @@
                 {
                     "name": "blackout-2018",
                     "position": "2nd Place"
+                },
+                {
+                    "name": "pompey-pillage-2018",
+                    "position": "2nd Place"
+                },
+                {
+                    "name": "eggs-18",
+                    "position": "Nomination"
                 }
             ],
-            "score": "130",
-            "position": "13"
+            "score": "164.67",
+            "position": "10"
         },
         {
             "name": "paul-haley",
@@ -1054,7 +1119,7 @@
                 }
             ],
             "score": "40",
-            "position": "80"
+            "position": "84"
         },
         {
             "name": "paul-whitehead",
@@ -1065,7 +1130,7 @@
                 }
             ],
             "score": "20",
-            "position": "104"
+            "position": "111"
         },
         {
             "name": "pete-scholey",
@@ -1076,7 +1141,7 @@
                 }
             ],
             "score": "40",
-            "position": "81"
+            "position": "85"
         },
         {
             "name": "phil-morton",
@@ -1087,7 +1152,7 @@
                 }
             ],
             "score": "40",
-            "position": "82"
+            "position": "86"
         },
         {
             "name": "pitor-jermolowisc",
@@ -1098,7 +1163,7 @@
                 }
             ],
             "score": "40",
-            "position": "83"
+            "position": "87"
         },
         {
             "name": "rachel-woodbridge",
@@ -1109,7 +1174,18 @@
                 }
             ],
             "score": "40",
-            "position": "84"
+            "position": "88"
+        },
+        {
+            "name": "reuben-beard",
+            "tournaments": [
+                {
+                    "name": "second-edition-slaughter",
+                    "position": "3rd Place"
+                }
+            ],
+            "score": "22",
+            "position": "109"
         },
         {
             "name": "rich-morley",
@@ -1120,7 +1196,10 @@
                 }
             ],
             "score": "48",
-            "position": "43"
+            "position": "48"
+        },
+        {
+            "name": "ritchie-mcalley"
         },
         {
             "name": "rob-crouchley",
@@ -1131,7 +1210,7 @@
                 }
             ],
             "score": "40",
-            "position": "85"
+            "position": "89"
         },
         {
             "name": "rob-ellis",
@@ -1142,7 +1221,7 @@
                 }
             ],
             "score": "20",
-            "position": "105"
+            "position": "112"
         },
         {
             "name": "russ-veal",
@@ -1162,6 +1241,10 @@
                 {
                     "name": "blackout-2018",
                     "position": "Nomination"
+                },
+                {
+                    "name": "eggs-18",
+                    "position": "Nomination"
                 }
             ],
             "score": "180",
@@ -1176,7 +1259,7 @@
                 }
             ],
             "score": "40",
-            "position": "86"
+            "position": "90"
         },
         {
             "name": "sam-saunders",
@@ -1191,7 +1274,7 @@
                 }
             ],
             "score": "80",
-            "position": "31"
+            "position": "34"
         },
         {
             "name": "sam-stocks",
@@ -1202,7 +1285,7 @@
                 }
             ],
             "score": "40",
-            "position": "87"
+            "position": "91"
         },
         {
             "name": "sam-wilson",
@@ -1213,7 +1296,18 @@
                 }
             ],
             "score": "40",
-            "position": "88"
+            "position": "92"
+        },
+        {
+            "name": "scott-smith",
+            "tournaments": [
+                {
+                    "name": "northern-invasion-18",
+                    "position": "2nd Place"
+                }
+            ],
+            "score": "56",
+            "position": "44"
         },
         {
             "name": "sean-keating",
@@ -1224,7 +1318,7 @@
                 }
             ],
             "score": "20",
-            "position": "106"
+            "position": "113"
         },
         {
             "name": "simon-eccles",
@@ -1235,7 +1329,7 @@
                 }
             ],
             "score": "40",
-            "position": "89"
+            "position": "93"
         },
         {
             "name": "steve-foote",
@@ -1246,7 +1340,7 @@
                 }
             ],
             "score": "16",
-            "position": "107"
+            "position": "114"
         },
         {
             "name": "steve-smith",
@@ -1261,7 +1355,7 @@
                 }
             ],
             "score": "80",
-            "position": "32"
+            "position": "35"
         },
         {
             "name": "steve-ward",
@@ -1272,7 +1366,7 @@
                 }
             ],
             "score": "10.67",
-            "position": "108"
+            "position": "115"
         },
         {
             "name": "steve-wren",
@@ -1287,7 +1381,7 @@
                 }
             ],
             "score": "140",
-            "position": "11"
+            "position": "13"
         },
         {
             "name": "terry-pike",
@@ -1302,7 +1396,7 @@
                 }
             ],
             "score": "100",
-            "position": "23"
+            "position": "25"
         },
         {
             "name": "tim-fisher",
@@ -1336,7 +1430,18 @@
                 }
             ],
             "score": "10.67",
-            "position": "109"
+            "position": "116"
+        },
+        {
+            "name": "tom-blaxall",
+            "tournaments": [
+                {
+                    "name": "eggs-18",
+                    "position": "3rd Place"
+                }
+            ],
+            "score": "52",
+            "position": "45"
         },
         {
             "name": "tom-bridges",
@@ -1347,7 +1452,7 @@
                 }
             ],
             "score": "40",
-            "position": "90"
+            "position": "94"
         },
         {
             "name": "tom-fildes",
@@ -1358,7 +1463,7 @@
                 }
             ],
             "score": "80",
-            "position": "33"
+            "position": "36"
         },
         {
             "name": "tom-healey",
@@ -1369,7 +1474,7 @@
                 }
             ],
             "score": "30",
-            "position": "95"
+            "position": "99"
         },
         {
             "name": "tom-hewitt",
@@ -1380,7 +1485,18 @@
                 }
             ],
             "score": "24",
-            "position": "102"
+            "position": "108"
+        },
+        {
+            "name": "tom-matthews",
+            "tournaments": [
+                {
+                    "name": "second-edition-slaughter",
+                    "position": "2nd Place"
+                }
+            ],
+            "score": "29.33",
+            "position": "100"
         },
         {
             "name": "tom-mobbs",
@@ -1391,7 +1507,7 @@
                 }
             ],
             "score": "40",
-            "position": "91"
+            "position": "95"
         },
         {
             "name": "wayne-kemp",
@@ -1403,10 +1519,14 @@
                 {
                     "name": "heat-3",
                     "position": "Nomination"
+                },
+                {
+                    "name": "pompey-pillage-2018",
+                    "position": "3rd Place"
                 }
             ],
-            "score": "80",
-            "position": "34"
+            "score": "98",
+            "position": "26"
         },
         {
             "name": "zaki-katilia",
@@ -1417,134 +1537,154 @@
                 }
             ],
             "score": "40",
-            "position": "92"
+            "position": "96"
         }
     ],
     "tournaments": [
         {
             "name": "age-of-santa",
-            "date": 1512861566,
+            "date": 1512810877,
             "painters": "14"
         },
         {
             "name": "heat-1",
-            "date": 1515885566,
+            "date": 1515834877,
             "painters": "87"
         },
         {
             "name": "growing-shadow",
-            "date": 1516922366,
+            "date": 1516871677,
             "painters": "10"
         },
         {
             "name": "sheffield-slaughter",
-            "date": 1517095166,
+            "date": 1517044477,
             "painters": "60"
         },
         {
             "name": "the-orthrus",
-            "date": 1517699966,
+            "date": 1517649277,
             "painters": "22"
         },
         {
             "name": "blood,-death-and-vengence-3",
-            "date": 1519514366,
+            "date": 1519463677,
             "painters": "26"
         },
         {
             "name": "rise-of-empires:-border-war",
-            "date": 1518909566,
+            "date": 1518858877,
             "painters": "24"
         },
         {
             "name": "whw-doubles",
-            "date": 1521933566,
+            "date": 1521882877,
             "painters": "180"
         },
         {
             "name": "chump-invitational",
-            "date": 1521415166,
+            "date": 1521364477,
             "painters": "36"
         },
         {
             "name": "dogger-doubles",
-            "date": 1520810366,
+            "date": 1520759677,
             "painters": "12"
         },
         {
             "name": "heat-2",
-            "date": 1523747966,
+            "date": 1523697277,
             "painters": "91"
         },
         {
             "name": "blood-tithe",
-            "date": 1520119166,
+            "date": 1520068477,
             "painters": "76"
         },
         {
             "name": "scgt-2018",
-            "date": 1526080766,
+            "date": 1526030077,
             "painters": "100"
         },
         {
             "name": "london-gt",
-            "date": 1526771966,
+            "date": 1526721277,
             "painters": "66"
         },
         {
             "name": "athena-games-titans",
-            "date": 1525562366,
+            "date": 1525511677,
             "painters": "15"
         },
         {
             "name": "heat-3",
-            "date": 1528586366,
+            "date": 1528535677,
             "painters": "88"
         },
         {
             "name": "june-judgement",
-            "date": 1528586366,
+            "date": 1528535677,
             "painters": "16"
         },
         {
             "name": "agomxxi",
-            "date": 1527376766,
+            "date": 1527326077,
             "painters": "30"
         },
         {
             "name": "blood,-death-and-vengence-4",
-            "date": 1527463166,
+            "date": 1527412477,
             "painters": "26"
         },
         {
             "name": "the-well-of-souls",
-            "date": 1528672766,
+            "date": 1528622077,
             "painters": "10"
         },
         {
             "name": "dorset-dogger-invitational-2018",
-            "date": 1529795966,
+            "date": 1529745277,
             "painters": "36"
         },
         {
             "name": "summer-massacre",
-            "date": 1531783166,
+            "date": 1531732477,
             "painters": "30"
         },
         {
             "name": "bobo-2018",
-            "date": 1532819966,
+            "date": 1532769277,
             "painters": "86"
         },
         {
             "name": "throne-of-skulls-2018",
-            "date": 1532215166,
+            "date": 1532164477,
             "painters": "48"
         },
         {
             "name": "blackout-2018",
-            "date": 1533338366,
+            "date": 1533287677,
             "painters": "94"
+        },
+        {
+            "name": "pompey-pillage-2018",
+            "date": 1533978877,
+            "painters": "18"
+        },
+        {
+            "name": "eggs-18",
+            "date": 1535102077,
+            "painters": "52"
+        },
+        {
+            "name": "second-edition-slaughter",
+            "date": 1535793277,
+            "painters": "22"
+        },
+        {
+            "name": "northern-invasion-18",
+            "date": -2205413123,
+            "painters": "42"
         }
     ]
 }
